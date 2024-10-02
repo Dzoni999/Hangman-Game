@@ -1,0 +1,15 @@
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\bin\Debug\net8.0\Hagman_v1_2024.exe
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\bin\Debug\net8.0\Hagman_v1_2024.deps.json
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\bin\Debug\net8.0\Hagman_v1_2024.runtimeconfig.json
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\bin\Debug\net8.0\Hagman_v1_2024.dll
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\bin\Debug\net8.0\Hagman_v1_2024.pdb
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\obj\Debug\net8.0\Hagman_v1_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\obj\Debug\net8.0\Hagman_v1_2024.AssemblyInfoInputs.cache
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\obj\Debug\net8.0\Hagman_v1_2024.AssemblyInfo.cs
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\obj\Debug\net8.0\Hagman_v1_2024.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\obj\Debug\net8.0\Hagman_v1_2024.sourcelink.json
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\obj\Debug\net8.0\Hagman_v1_2024.dll
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\obj\Debug\net8.0\refint\Hagman_v1_2024.dll
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\obj\Debug\net8.0\Hagman_v1_2024.pdb
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\obj\Debug\net8.0\Hagman_v1_2024.genruntimeconfig.cache
+C:\Users\Nikola Sajic\source\repos\Hagman_v1_2024\Hagman_v1_2024\obj\Debug\net8.0\ref\Hagman_v1_2024.dll
